@@ -24,7 +24,7 @@ namespace Online_chat_wcf
 
             nextId++;
 
-            SendMsg(user.Name + " подключился к чату", 0);
+            SendMsg(": " + user.Name + " подключился к чату", 0);
 
             users.Add(user);
             return user.ID;
@@ -36,7 +36,7 @@ namespace Online_chat_wcf
             if (user != null)
             {
                 users.Remove(user);
-                SendMsg(user.Name + " отключился от чата", 0);
+                SendMsg(": " + user.Name + " отключился от чата", 0);
             }
         }
 
@@ -44,12 +44,12 @@ namespace Online_chat_wcf
         {
             foreach (var item in users)
             {
-                string answer = DateTime.Now.ToShortTimeString();
+                string answer = DateTime.Now.ToShortTimeString() + " ";
 
                 var user = users.FirstOrDefault(i => i.ID == id);
                 if (user != null)
                 {
-                    answer += ": " + user.Name + "";
+                    answer += " : " + user.Name + " - ";
                 }
 
                 answer += msg;
