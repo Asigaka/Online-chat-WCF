@@ -1,0 +1,11 @@
+E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatHost\bin\Debug\ChatHost.exe.config
+E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatHost\bin\Debug\ChatHost.exe
+E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatHost\bin\Debug\ChatHost.pdb
+E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatHost\bin\Debug\Online_chat_wcf.dll
+E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatHost\bin\Debug\Online_chat_wcf.pdb
+E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatHost\bin\Debug\Online_chat_wcf.dll.config
+E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatHost\obj\Debug\ChatHost.csproj.AssemblyReference.cache
+E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatHost\obj\Debug\ChatHost.csproj.CoreCompileInputs.cache
+E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatHost\obj\Debug\ChatHost.csproj.CopyComplete
+E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatHost\obj\Debug\ChatHost.exe
+E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatHost\obj\Debug\ChatHost.pdb
