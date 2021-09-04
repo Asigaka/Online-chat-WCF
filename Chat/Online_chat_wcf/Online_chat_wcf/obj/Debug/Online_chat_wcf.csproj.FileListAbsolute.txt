@@ -1,7 +1,6 @@
 E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\Online_chat_wcf\bin\Debug\Online_chat_wcf.dll.config
 E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\Online_chat_wcf\bin\Debug\Online_chat_wcf.dll
 E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\Online_chat_wcf\bin\Debug\Online_chat_wcf.pdb
-E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\Online_chat_wcf\obj\Debug\Online_chat_wcf.csproj.AssemblyReference.cache
 E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\Online_chat_wcf\obj\Debug\Online_chat_wcf.csproj.CoreCompileInputs.cache
 E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\Online_chat_wcf\obj\Debug\Online_chat_wcf.dll
 E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\Online_chat_wcf\obj\Debug\Online_chat_wcf.pdb

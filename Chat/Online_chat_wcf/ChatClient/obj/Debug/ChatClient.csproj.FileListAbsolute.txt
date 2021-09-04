@@ -1,7 +1,6 @@
 E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatClient\bin\Debug\ChatClient.exe.config
 E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatClient\bin\Debug\ChatClient.exe
 E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatClient\bin\Debug\ChatClient.pdb
-E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatClient\obj\Debug\ChatClient.csproj.AssemblyReference.cache
 E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatClient\obj\Debug\MainWindow.g.cs
 E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatClient\obj\Debug\App.g.cs
 E:\GitHub\Repository\Online-chat-WCF\Chat\Online_chat_wcf\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
